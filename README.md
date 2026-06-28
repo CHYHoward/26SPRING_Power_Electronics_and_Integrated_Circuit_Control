@@ -1,7 +1,15 @@
 # Power Electronics and Integrated Circuit Control (PEIC) 
 
 ---
+## 📋 Portfolio Overview
 
+- **[Homework 1: Buck Converter Fundamentals & Simulation](#-homework-1-buck-converter-fundamentals--simulation)**
+- **[Homework 2: Synchronous Power Stage & Driver Circuit Design](#-homework-2-synchronous-power-stage--driver-circuit-design)**
+- **[Homework 3: Closed-Loop Voltage-Mode Control & Compensation](#-homework-3-closed-loop-voltage-mode-control--compensation)**
+- **[Homework 4: Transistor-Level Error Amplifier Design](#-homework-4-transistor-level-error-amplifier-design)**
+- **[Final Project: Transistor-Level $V^2$ Constant ON-Time Buck Converter PMIC](#final-project-transistor-level-v2-constant-on-time-buck-converter-pmic)**
+
+---
 ## 📝 Homework 1: Buck Converter Fundamentals & Simulation
 
 ### Objective
