@@ -118,7 +118,7 @@ To overcome this structural instability without relying on power-hungry current-
 
 ### Documentation
 📄 Refer to:  
-- [`doc`](./FinalProject/PEIC-final.pptx)
+- [`doc`](./Finalproject/PEIC-final.pptx)
 
 ---
 
