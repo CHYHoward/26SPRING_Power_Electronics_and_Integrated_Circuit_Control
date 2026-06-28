@@ -1,7 +1,7 @@
 # Power Electronics and Integrated Circuit Control (PEIC) 
 
 ---
-## 📋 Portfolio Overview
+## Overview
 
 - **[Homework 1: Buck Converter Fundamentals & Simulation](#-homework-1-buck-converter-fundamentals--simulation)**
 - **[Homework 2: Synchronous Power Stage & Driver Circuit Design](#-homework-2-synchronous-power-stage--driver-circuit-design)**
